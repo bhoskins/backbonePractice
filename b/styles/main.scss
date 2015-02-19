@@ -1,0 +1,13 @@
+@import 'bourbon/bourbon';
+@import 'neat/neat';
+
+h1 {
+  color: blue;
+}
+
+input,
+textarea,
+button {
+  display: block;
+  margin: 10px;
+}
